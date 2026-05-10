@@ -2,20 +2,20 @@
   "version": 1,
   "name": "自欺的半写实动态立绘",
   "description": "PortraitAnimMod AB Bundle Repository",
-  "base_url": "https://github.com/LomusNox/PortraitAnimMod-Packs/releases/download",
+  "base_url": "https://mod-downloads-proxy.2840845076.workers.dev",
   "packs": [
     {
       "id": "female_npc_v1",
       "type": "ab_pack",
       "name": "女性NPC立绘包 v1",
       "author": "自欺",
-      "description": "WAN 2.2 生成的 111 位女性 NPC 动态立绘，水球物理呼吸动画，DXT5 压缩 1000x1400",
+      "description": "WAN 2.2 生成 18 位女性 NPC 动态立绘，呼吸动画，DXT5压缩 1000x1400。含配置文件自动部署。",
       "version": "1.0.0",
       "min_mod_version": "1.5.0",
-      "size_mb": 560,
-      "char_count": 111,
+      "size_mb": 221,
+      "char_count": 18,
       "file_name": "female_npc_v1.zip",
-      "sha256": "",
+      "sha256": "fc3f68737f8697d2207ee781dff7bb778078efe69d0da42987a3f8e91b93022a",
       "updated_at": "2026-05-10",
       "mirror_url": ""
     }
